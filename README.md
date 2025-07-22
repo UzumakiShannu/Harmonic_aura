@@ -28,25 +28,20 @@ Harmonic Aura is a meditation-focused web application developed using React and 
 ## 📁 Project Structure (Vite + React)
 
 
+project/ ─┬─ dist/                  # Build output (auto-generated)
+          ├─ public/               # Static files
+          │   └─ index.html
+          ├─ src/                  # Source code
+          │   ├─ components/       # Chakra cards, visual blocks, audio triggers
+          │   ├─ types/            # TypeScript interfaces and types
+          │   ├─ utils/            # Utility functions or constants
+          │   ├─ App.tsx
+          │   ├─ main.tsx
+          │   └─ index.css
+          ├─ package.json          # Project config and dependencies
+          ├─ package-lock.json     # Dependency lock file
+          └─ README.md             # Project overview
 
-project/
-│
-├── dist/ # Build output (auto-generated after build)
-│
-├── public/
-│ └── index.html # HTML entry point
-│
-├── src/
-│ ├── components/ # Chakra cards, visual blocks, audio triggers
-│ ├── types/ # TypeScript interfaces and types
-│ ├── utils/ # Utility functions or constants
-│ ├── App.tsx # Main app structure
-│ ├── main.tsx # React DOM rendering
-│ └── index.css # Global styles
-│
-├── package.json # Project config and dependencies
-├── package-lock.json # Dependency lock file
-└── README.md # Project overview (this file)
 ---
 
 ## 🚀 Getting Started
@@ -93,7 +88,7 @@ B.Tech Electronics and Communication Engineering
 IIITDM Kancheepuram, Chennai
 Final year
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/)
 💻 [GitHub](https://github.com/UzumakiShannu)
 
 
