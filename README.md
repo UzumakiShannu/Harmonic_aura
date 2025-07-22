@@ -19,9 +19,10 @@ Harmonic Aura is a meditation-focused web application developed using React and 
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React, TypeScript, HTML5, CSS3
+- **Frontend:** React.js (with TypeScript), TypeScript, HTML5, CSS3
 - **Hardware (External):** Arduino, exg Synapse kit
-- **Platform:** Firebase Hosting
+- 🌐 Firebase Hosting
+- 🧠 Chakra Mapping Logic (custom)
 
 ---
 
