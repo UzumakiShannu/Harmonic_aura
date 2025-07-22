@@ -29,19 +29,24 @@ Harmonic Aura is a meditation-focused web application developed using React and 
 
 
 
-├── dist/ # Build output (auto-generated)
+project/
+│
+├── dist/ # Build output (auto-generated after build)
+│
 ├── public/
-│ └── index.html
+│ └── index.html # HTML entry point
+│
 ├── src/
 │ ├── components/ # Chakra cards, visual blocks, audio triggers
 │ ├── types/ # TypeScript interfaces and types
 │ ├── utils/ # Utility functions or constants
-│ ├── App.tsx
-│ ├── main.tsx
-│ └── index.css
-├── package.json
-├── package-lock.json
-
+│ ├── App.tsx # Main app structure
+│ ├── main.tsx # React DOM rendering
+│ └── index.css # Global styles
+│
+├── package.json # Project config and dependencies
+├── package-lock.json # Dependency lock file
+└── README.md # Project overview (this file)
 ---
 
 ## 🚀 Getting Started
