@@ -2,7 +2,7 @@
 
 # 🧘 Harmonic Aura – Chakra-Based Meditation System with Sensor Feedback
 
-**Live Demo:** [https://harmonic-aura.web.app](https://harmonic-aura.web.app)
+[![Live Preview](https://img.shields.io/badge/View_Live-Click_Here-blue?style=for-the-badge)](https://harmonic-aura.web.app/)
 
 Harmonic Aura is a meditation-focused web application developed using React and TypeScript. It interfaces with hardware sensors (EMG, heart rate, and temperature) to detect energetic imbalances and trigger chakra-specific healing tones (Hz frequencies). The system was built during a guided internship project to blend wellness principles with modern web and IoT technology.
 
