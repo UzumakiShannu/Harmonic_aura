@@ -29,18 +29,7 @@ Harmonic Aura is a meditation-focused web application developed using React and 
 
 
 
-├── dist/ # Build output (auto-generated)
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/ # Chakra cards, visual blocks, audio triggers
-│ ├── types/ # TypeScript interfaces and types
-│ ├── utils/ # Utility functions or constants
-│ ├── App.tsx
-│ ├── main.tsx
-│ └── index.css
-├── package.json
-├── package-lock.json
+<pre lang="markdown"><code> ``` project/ ├── dist/ # Build output (auto-generated) ├── public/ │ └── index.html ├── src/ │ ├── components/ # Chakra cards, visual blocks, audio triggers │ ├── types/ # TypeScript interfaces and types │ ├── utils/ # Utility functions or constants │ ├── App.tsx │ ├── main.tsx │ └── index.css ├── package.json ├── package-lock.json └── README.md ``` </code></pre>
 
 ---
 
@@ -59,10 +48,10 @@ npm run dev
 
 📷 Screenshots
 
-![sign-page](image-1.png)
-![chakra-page](image-2.png)
-![unbalanced-chakra](image-3.png)
-![Therapy Recommendations](image-4.png)
+![sign-page](<img width="1919" height="917" alt="image-1" src="https://github.com/user-attachments/assets/89cedbb9-e956-41bd-823d-9c446b6c4abc" />)
+![chakra-page](<img width="1918" height="907" alt="image-2" src="https://github.com/user-attachments/assets/c184eabd-561b-4de0-85a7-ffac04dab1c6" />)
+![unbalanced-chakra](<img width="1916" height="914" alt="image-3" src="https://github.com/user-attachments/assets/301eb1a6-54d3-46af-9093-1acd6083b2ee" />)
+![Therapy Recommendations](<img width="1919" height="629" alt="image-4" src="https://github.com/user-attachments/assets/5ffe0928-2378-4cf6-8f4f-a6b086e91e40" />)
 
 
 
